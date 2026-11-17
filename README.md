@@ -300,19 +300,7 @@ Recommended filename:
 
 **Mentor:** Dr. S. Shargunam
 
-## 16. Submission Checklist
-
-- [ ] Repository renamed according to the prescribed naming convention.
-- [ ] README.md updated with all required academic details.
-- [ ] Final project report uploaded in PDF format.
-- [ ] All team members added as repository collaborators.
-- [ ] All collaborator invitations accepted.
-- [ ] Official organization SRMIST-TRC-CSE-STUDENT-PROJECTS added as collaborator.
-- [ ] Minimum of five GitHub stars obtained.
-- [ ] Final repository URL verified and ready for submission.
-
----
-
+_____
 **Developed as part of the Advanced Programming Practices course (21CSC203P).**
 
 **Project: AgentTrust | Academic Year: Second Year | Department: CSE – E**
